@@ -13,8 +13,21 @@ const wants: string[] = [
 	'1FA77',
 	'1FA75',
 	'1FA76',
+
 	'1FAF7',
+	'1FAF7 1f3fb',
+	'1FAF7 1f3fc',
+	'1FAF7 1f3fd',
+	'1FAF7 1f3fe',
+	'1FAF7 1f3ff',
+
 	'1FAF8',
+	'1FAF8 1f3fb',
+	'1FAF8 1f3fc',
+	'1FAF8 1f3fd',
+	'1FAF8 1f3fe',
+	'1FAF8 1f3ff',
+
 	'1FACE',
 	'1FACF',
 	'1FABD',
