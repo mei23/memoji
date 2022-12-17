@@ -1,0 +1,25 @@
+{
+  "name": "memoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei23/memoji.git"
+  },
+  "author": "mei23 <m@m544.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mei23/memoji/issues"
+  },
+  "homepage": "https://github.com/mei23/memoji#readme",
+  "devDependencies": {
+    "@types/node": "18.11.16",
+    "ts-node": "10.9.1",
+    "typescript": "4.9.4"
+  }
+}
