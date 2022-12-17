@@ -1,9 +1,14 @@
-import { copyFileSync, existsSync, readdirSync } from "fs";
+import { copyFileSync, readdirSync } from "fs";
 import { resolve } from "path";
 
 export default 1;
 
-// https://github.com/googlefonts/noto-emoji
+// Twemojiで足りないのをGoogle Noto Emojiから持ってくるスクリプト
+
+// ../noto-emoji に https://github.com/googlefonts/noto-emoji のリポジトリをチェックアウトしといて
+// 持ってくるのはwantsに指定して
+// npx ts-node --transpileOnly src/pick-noto.ts
+
 const notoBase = resolve(__dirname, '../../noto-emoji/svg/');
 
 const twemojiBase = resolve(__dirname, '../dist/svg/');
@@ -14,6 +19,7 @@ const wants: string[] = [
 	'1FA75',
 	'1FA76',
 
+	// SkinTone+5が必要なのはとりあえずこんな感じにして
 	'1FAF7',
 	'1FAF7 1f3fb',
 	'1FAF7 1f3fc',
