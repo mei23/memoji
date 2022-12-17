@@ -1,3 +1,5 @@
+svgとか以外
+
 MIT License
 
 Copyright (c) 2022 MeiMei
@@ -19,3 +21,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+下に記載のない全てのsvg
+Copyright © Twitter, Inc.
+Creative Commons Attribution 4.0 license
+https://github.com/twitter/twemoji/blob/gh-pages/LICENSE-GRAPHICS
+
+
+一部例外のsvg
+Copyright © The Android Open Source Project
+Apache License 2.0
+https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
