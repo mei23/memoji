@@ -2,8 +2,8 @@
 
 Twemojiがなんたらマスクによって開発者ごとレイオフされた様子。
 
-とりあえず [Twemoji](https://github.com/twitter/twemoji) がサポートしている Unicode Emoji v14.0 までのSVG assets に対して、
-不足分を [Google Noto Emoji](https://github.com/googlefonts/noto-emoji) から補ったもの。
+とりあえず [Twemoji](https://github.com/twitter/twemoji) がサポートしている Unicode Emoji v14.0 までのSVG assets に対して、  
+~~不足分を [Google Noto Emoji](https://github.com/googlefonts/noto-emoji) から補ったもの。~~ v15.0分は [jdecked/twemoji](https://github.com/jdecked/twemoji) から補ったので、今はそちらと同じ。
 
 現状 Unicode Emoji v15.0 までサポートしている。
 
